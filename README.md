@@ -1,5 +1,4 @@
 # Overview
-Agile
 
 Project Structure, Repositories and Branches: Each of the 5 project will have their own repositories. The branches will depend on the scope of each project and will be adjusted as the semester continues. 
 Project 1's repository is called CMPG323_Overview_29652537 and is used to create a outline of all the activities for the semester.
