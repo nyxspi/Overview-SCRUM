@@ -1,4 +1,4 @@
-# CMPG323_Overview_29652537
+# Overview
 Repository for CMPG323
 
 Project Structure, Repositories and Branches: Each of the 5 project will have their own repositories. The branches will depend on the scope of each project and will be adjusted as the semester continues. 
